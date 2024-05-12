@@ -1,1 +1,3 @@
-let () = print_endline "Hello, World!"
+open Ocaml
+
+let () = Day1.part2 ()
