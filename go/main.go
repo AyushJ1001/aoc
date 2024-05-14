@@ -1,7 +1,9 @@
 package main
 
-import "fmt"
+import (
+	"golang/day2"
+)
 
 func main() {
-	fmt.Println("Hello World")
+	day2.Run()
 }
