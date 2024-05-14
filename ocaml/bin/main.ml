@@ -1,3 +1,3 @@
 open Ocaml
 
-let () = Day2.part1 ()
+let () = Day2.part2 ()
